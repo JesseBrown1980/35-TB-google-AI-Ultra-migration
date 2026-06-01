@@ -1,0 +1,44 @@
+# ── SECRETS — never commit (this is a PUBLIC repo). Backstop, belt-and-suspenders. ──
+# Private keys / certs
+*.key
+*.pem
+*.p12
+*.pfx
+*.jks
+id_ed25519
+id_ed25519.*
+id_rsa
+id_rsa.*
+*.private
+*.private.*
+*.cosign.key
+
+# Google / GCP credentials (this repo is ABOUT a Google account — highest risk)
+application_default_credentials.json
+client_secret*.json
+*service-account*.json
+*-sa.json
+gcloud-key*.json
+adc.json
+
+# OAuth / tokens
+token.json
+tokens.json
+*token*.json
+refresh_token*
+
+# Vault / env / generic secrets
+vault.*
+*vault*key*
+.env
+.env.*
+*.secret
+*.secrets
+secrets.*
+*credential*
+*credentials*
+
+# Local clutter
+node_modules/
+.DS_Store
+*.log
