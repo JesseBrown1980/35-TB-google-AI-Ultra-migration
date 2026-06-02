@@ -15,3 +15,6 @@ jobs:
       # runs the spine self-test, including the no-secret-values scan
       - name: spine self-test
         run: node --test test/spine.test.mjs
+      # LEG-4 adapter: STORE-interface parity, sha16 round-trip, never-delete, cloud-path GATED
+      - name: google-drive-store adapter
+        run: node --test test/google-drive-store.test.mjs

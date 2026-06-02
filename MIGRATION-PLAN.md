@@ -24,7 +24,7 @@ LEG-4 is *only* a new backend for the **store interface LEG-1 already defines**
 | Gemini CLI | real-now | optional build-helper |
 | Drive **read** scope | real-now | via the operator's connected account |
 | **Application Default Credentials** (write path) | **GATED** | one local command: `gcloud auth application-default login` |
-| `GoogleDriveStore` adapter | not built | this repo's deliverable |
+| `GoogleDriveStore` adapter | **built (interface + offline round-trip)** | `src/google-drive-store.mjs` — STORE-interface parity, sha16 round-trip, never-delete `compact`, all green offline via `InMemoryDriveTransport`. Cloud transport still GATED on ADC. |
 | Redis Cloud (optional white-room cache) | gated | account + connection string, local only |
 
 ## Steps (in order)
