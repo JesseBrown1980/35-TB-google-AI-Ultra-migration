@@ -18,3 +18,6 @@ jobs:
       # LEG-4 adapter: STORE-interface parity, sha16 round-trip, never-delete, cloud-path GATED
       - name: google-drive-store adapter
         run: node --test test/google-drive-store.test.mjs
+      # LEG-4 live transport: Drive v3 REST spoken correctly vs a simulated Drive (no creds)
+      - name: drive-rest-transport
+        run: node --test test/drive-rest-transport.test.mjs
