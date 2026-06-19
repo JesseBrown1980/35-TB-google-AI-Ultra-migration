@@ -74,3 +74,6 @@ README + MIGRATION-PLAN.)
 
 ---
 *Master index → reductions repo `ASOLARIA-MAP-OF-MAPS-2026-06-19.md`.*
+
+---
+**Related repo:** [Algorithms-of-Asolaria](https://github.com/JesseBrown1980/Algorithms-of-Asolaria) — canonical algorithm/formula catalog (bilateral). Index: reductions ASOLARIA-MAP-OF-MAPS-2026-06-19.md.
