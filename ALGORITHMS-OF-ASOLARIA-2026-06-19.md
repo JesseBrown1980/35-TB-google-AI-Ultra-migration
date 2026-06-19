@@ -3,9 +3,9 @@
 This repository participates in the Asolaria map sweep and now points to the shared algorithm/formula comparison repo:
 
 - Canonical catalog repo: https://github.com/JesseBrown1980/Algorithms-of-Asolaria
-- Current seed commit: `27b31d6`
+- Current catalog commit: `d89bf2b`
 - Acer catalog: `acer/ALGORITHMS-CATALOG-ACER-2026-06-19.md`
-- Liris catalog seed: `liris/ALGORITHMS-CATALOG-LIRIS-2026-06-19.md`
+- Liris catalogs: `liris/ALGORITHMS-CATALOG-LIRIS-2026-06-19.md` + `liris/ALGORITHMS-CATALOG-LIRIS-2026-06-19-V2.md`
 - Bilateral compare: `BILATERAL-COMPARE.md`
 
 Role of this repo in that catalog: 35TB / Google Drive storage migration formulas, page-store hashing, Drive round-trip gates, and storage-capacity boundaries.
