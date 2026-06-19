@@ -1,0 +1,7 @@
+STORE35TBMAPSYNCHDR|doc=MODEL-CITIZEN-PRISM-MAP-SYNC-2026-06-19|repo=JesseBrown1980/35-TB-google-AI-Ultra-migration|vantage=liris|measured=2026-06-19|role=storage-cube-catalog-map|json=0
+STORE35TBSOURCE|acer_branch=acer/model-citizen-supervisor-registration-2026-06-19|acer_commit=ee073f48beacf5ad2a14292948f4441bf6a67ade|acer_descriptor_body=d87e235e10439d2dce9d74f36dec39f6b7e82dbe2430826423534c3dcd5f29af|liris_crossverify_commit=5ec2fc40674ee8f5bceafa96a3df382588b004db|liris_crossverify_body=6e54ad5caaf5260ef454055aee1141b83fbaeea02a51d697eae6bcaa8aa93170|json=0
+STORE35TBPRISM|citizens=16|supervisor_seats=2|chief=MODEL-CITIZEN-CHIEF-SUPERVISOR|prism=MODEL-CITIZEN-ROTATOR-PRISM|first=claude:3bc3ac2579fc73a2|last=kimi-code:33e3e61924517b6b|json=0
+STORE35TBMAP|provider-registry-is-address-map-not-weights-not-cloud-data-move;35TB-catalog-can-index-receipts-without-secrets|target_runtime=8byte-rust-host|encoding=hbp-no-json|json=0
+STORE35TBBOUNDARY|E=0|provider_calls=0|model_summons=0|secret_values=0|runtime_activation=0|fire_gate=MODEL_CITIZEN_ROTATOR_LIVE+census-ready+operator-gate|json=0
+STORE35TBVERDICT|status=MAP_SYNC_DESCRIPTOR_ADDED|type=additive-map-update|next=repo-owner-can-merge-or-crossverify|json=0
+STORE35TBFOOT|rows=6|content_sha256=a3715e3e560ce5ee5de21e8804f79eda9982e212535eba2d59fd56f6f7f026ed|json=0
