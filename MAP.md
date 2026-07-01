@@ -32,6 +32,19 @@ tables below to see where you are; follow the links to walk the rest.
 | `asolaria-whiteroom-engine` | **liris** white-room engine — LEG-1 scorer (never-delete: genius keeps / mistake compacts) |
 | `35-TB-google-AI-Ultra-migration` | LEG-4 — the 35 TB Google Drive cloud sink |
 
+## Prism/Comb 0-loss (2026-07-01) — satellite entry (this repo = LEG-4)
+The headline capacity line for this sink is **referential math**: 35 TB / 8 B = **4.38T agent-slots** —
+the count of 8-byte **coordinates** (PIDs) the Drive leg can *name*, not 4.38T stored records. Same law
+as the handle8 boundary: a content-address (`sha256[:8]`, a PID) is a **coordinate against a
+content-addressed store** (`H(content | store) = 0`) — **infinite ADDRESSING capacity, never compression
+below entropy** (Shannon's `E[bits] ≥ H(X)` always stands). This repo's sha round-trip step (write a
+page → read it back → hashes match) is the integrity dual: verification = recomputation = the inverse
+map, exact only because every prism/comb step is a bijection. Scope: the 256↔1024 transcode rung =
+MEASURED (Q-PRISM `53023b6` / `79e8d63` / `de00aca`); the 43+ level ladder = CANON frame; this sink's
+slot count = referential capacity, UNVERIFIED as occupancy until pages actually land. Cross-links:
+waves-cascades (duality) · what-is-asolaria (reductions boundary) · N-Nest (integrity dual) ·
+Metatagging repo (physics grounding). E=0 — this entry describes; nothing fires.
+
 ## Other core repos (the satellites — referenced by the web)
 | repo | role |
 |------|------|
