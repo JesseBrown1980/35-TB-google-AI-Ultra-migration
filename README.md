@@ -7,10 +7,11 @@ the local substrate is.
 
 ## Status
 
-Planning + scaffold. The **local** substrate (HDD/USB) is the proven base; this
-repo adds the **cloud** leg. The cloud leg is **gated on one local operator auth
-step** (Google Application Default Credentials) that runs on the operator's own
-machine and **never touches this repository**.
+Adapter scaffold and offline round-trip path are built; the **local** substrate
+(HDD/USB) is the proven base. This repo adds the **cloud** leg, and real Google
+Drive cloud writes remain **gated on one local operator auth step** (Google
+Application Default Credentials) that runs on the operator's own machine and
+**never touches this repository**.
 
 ## Architecture — the cloud leg is a drop-in store
 

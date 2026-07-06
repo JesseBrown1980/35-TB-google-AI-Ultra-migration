@@ -1,0 +1,4 @@
+HBPv1|doc=README-CLOUD-LEG-STATUS-2026-07-06|json=0
+PATCH|repo=JesseBrown1980/35-TB-google-AI-Ultra-migration|branch=codex/readme-cloud-leg-status-20260706|base_commit=2bc427a4e50a10ee14211d9b312325aa7ab2f83c|json=0
+CLAIM|readme_status=adapter_scaffold_and_offline_round_trip_built|cloud_write_path=gated_on_local_operator_adc|local_substrate=proven_base|json=0
+BOUNDARY|credentials_in_repo=0|cloud_write_claim=0|drive_occupancy_claim=0|runtime_fire_claim=0|json=0

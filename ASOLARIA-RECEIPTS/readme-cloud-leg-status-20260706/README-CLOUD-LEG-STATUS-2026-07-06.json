@@ -1,0 +1,9 @@
+{
+  "schema": "asolaria.readme_sweep.repo2_cloud_leg_status.v1",
+  "date": "2026-07-06",
+  "repo": "JesseBrown1980/35-TB-google-AI-Ultra-migration",
+  "branch": "codex/readme-cloud-leg-status-20260706",
+  "base_commit": "2bc427a4e50a10ee14211d9b312325aa7ab2f83c",
+  "claim": "adapter scaffold and offline round-trip path built; real Google Drive cloud writes gated on local operator ADC auth",
+  "boundary": "no credentials no cloud write claim no drive occupancy claim no runtime fire"
+}

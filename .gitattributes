@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.md text eol=lf
+*.hbp text eol=lf
+*.hbi text eol=lf
+*.json text eol=lf
+*.sha256 text eol=lf
